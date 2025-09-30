@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+testing/
+sonar-project.properties
+coverage/
+database/
+README.md
